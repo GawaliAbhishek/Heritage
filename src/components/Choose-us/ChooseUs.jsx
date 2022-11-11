@@ -16,13 +16,7 @@ const ChooseUs = () => {
             <div className="choose__content">
               <h2>Trambakeshwar Nashik</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+              Trimbakeshwar Temple is a religious centre having one of the twelve Jyotirlingas . The city of Trimbakeshwar is located at the foot of Brahamagiri hill ,height of which is 3000 feet above sea level. Trimbakeshwar Temple is maintained by Trimbakeshwar Temple Trust. They have constructed Shivprasad Bhakta Niwas which is having 24 rooms, conference hall, lift, hot water facilities.
               </p>
             </div>
           </Col>

@@ -20,9 +20,7 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+             Mainely Heritage will contain all the important information related to the  Historical monuments. Including geo location , places near by which could be visited and History as well as geography of the particular location.
               </p>
 
               <div className="about__counter">
