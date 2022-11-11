@@ -14,15 +14,14 @@ const HeroSection = () => {
                 Anytime Anywhere <br /> you want to go <br />
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              “The journey of a thousand miles begins with a single step.” ... <br /> Always say yes to new adventures...
+              
               </p>
             </div>
-            <div className="search">
+            {/* <div className="search">
               <input type="text" placeholder="Search" />
               <button className="btn">Search</button>
-            </div>
+            </div> */}
           </Col>
 
           <Col lg="6" md="6">

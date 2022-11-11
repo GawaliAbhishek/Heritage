@@ -9,7 +9,7 @@ import SiteCard from "./SiteCard";
 const coursesData = [
   {
     id: "01",
-    title: "The India Gate is a war memories",
+    title: "The India Gate ",
     // lesson: 12,
     students: 12.5,
     rating: 5.9,
@@ -18,7 +18,7 @@ const coursesData = [
 
   {
     id: "02",
-    title: "The India Gate is a war memories",
+    title: "The India Gate ",
     // lesson: 12,
     students: 12.5,
     rating: 5.9,
@@ -27,7 +27,7 @@ const coursesData = [
 
   {
     id: "03",
-    title: "The India Gate is a war memories",
+    title: "The India Gate ",
     // lesson: 12,
     students: 12.5,
     rating: 5.9,
@@ -45,9 +45,7 @@ const Sites = () => {
               <div className="course__top__left w-50">
                 <h2>Popular Places</h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
-                  consequatur libero quod voluptatibus ullam quia quas, vitae
-                  voluptatem recusandae reprehenderit!
+                Our national history cannot be national if, in the near future, one in three young adults feels their stories remain untold, if this country's long global history of empire and interconnections is marginalised and if the historical reality of race is rendered almost invisible.
                 </p>
               </div>
 
