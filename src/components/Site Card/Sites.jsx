@@ -33,6 +33,7 @@ const coursesData = [
     rating: 5.9,
     imgUrl: courseImg3,
   },
+  
 ];
 
 const Sites = () => {
